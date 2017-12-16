@@ -34,4 +34,5 @@ __pycache__
 # user specified
 #######
 .vs/*
+.vs
 
