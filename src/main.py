@@ -1,3 +1,5 @@
 # -*- coding:utf-8 -*-
-print('a')
-print('真蛋疼，你居然用的ANSI编码!手动再见')
+from parse_data import parseDate
+
+if __name__ == '__main__':
+    parseDate()

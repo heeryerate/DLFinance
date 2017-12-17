@@ -20,7 +20,6 @@
 *.pkl
 *.mat
 *.eps
-*.pdf
 
 #######
 # system temporary files
